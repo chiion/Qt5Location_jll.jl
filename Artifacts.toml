@@ -1,0 +1,82 @@
+[[Qt5Location]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5348312be6cd2c48f1ab6c022a45a3f5da390002"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "c2ec5c3ed40af21f2599a7de606d8b1c08dfb05c1af5cfbdff700236feb8cfe6"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Qt5Location]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "273892a31074fca9e7d1f016e55396617d64cb42"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "a9b552f2c2ee652b56c8ee98608507bd801b1536280069fd260849ad6be77530"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Qt5Location]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f07e173ec4c72f8050107df4a1b6c05f02a97ea3"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "20c556abc2370627c21bfa3794ca06d63ff144a634b88cec175d3bf17fa37c52"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Qt5Location]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a85f864eb29f6f92f7309a15b73e48c61fecad8"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "a4c302fcf0c6264efe2ea9cc5eacfb48d35873b3e3df99079cc316e7e3f3baa5"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Qt5Location]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "12a6d399a3c166325aee2eeee6fa0dd84646ef23"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "7b47c6eee8d7f234989b97f3b43fb696e36d997c93b6e4a0f8d1724032841dd5"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.i686-linux-gnu-cxx03.tar.gz"
+[[Qt5Location]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68373fc9028107e9eec55b59b871bbefbe96ed82"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "dd52b6456bc583f32f5b795628a35628ee0de14836ff612128c8733a7562a80e"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.i686-linux-gnu-cxx11.tar.gz"
+[[Qt5Location]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8726372fd32d29bd6acf61fd22525ef59dfd70c2"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "162de72ad565e49e5f75ed47b5b7507287acea6912807df6b1f0737469d8d3e1"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Qt5Location]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbdd13b8faa2b132a8faaf2d226818f1bfac52bc"
+libc = "glibc"
+os = "linux"
+
+    [[Qt5Location.download]]
+    sha256 = "d251e251472de9539dc96f5a778d0080ecceebf28ebdeb24992c66037535bc96"
+    url = "https://github.com/chiion/Qt5Location_jll.jl/releases/download/Qt5Location-v5.15.2+0/Qt5Location.v5.15.2.x86_64-linux-gnu-cxx11.tar.gz"
